@@ -2,6 +2,7 @@
 //Based on Arduino code by LewanSoul
 #ifndef LX16A_h
 #define LX16A_h
+// NEW COMMENT 
 
 #include "Arduino.h"
 
