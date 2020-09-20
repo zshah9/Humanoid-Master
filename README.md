@@ -1,7 +1,4 @@
-# Poof - An Open-Source Humanoid Project by BME Robotics at Geogia Tech
-
-## Hardware:
-- LewanSoul LX16-A bus servos
+# ROB - An Open-Source Humanoid Project by Medical Robotics at Geogia Tech
 
 ## Who to contact:
-Shehab Attia (shehabattia96@gmail.com)
+Zachary Shah (zshah9@gatech.edu)
